@@ -13,5 +13,5 @@ const facts = [];
     facts.push(array[i] + "!!!");
     i++;
   }
-  return array
+  return facts
 }
