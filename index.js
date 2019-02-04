@@ -16,5 +16,5 @@ const facts = [];
   return facts
 }
 function iLoveTHeBeatles(number)  {
-  
+  var = [];
 }
