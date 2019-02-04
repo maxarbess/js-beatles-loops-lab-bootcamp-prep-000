@@ -16,5 +16,8 @@ const facts = [];
   return facts
 }
 function iLoveTHeBeatles(number)  {
-  var = [];
+  var array = [];
+  do  {
+    console.log("I love the Beatles!")
+  }
 }
