@@ -18,6 +18,6 @@ const facts = [];
 function iLoveTHeBeatles(number)  {
   var array = [];
   do  {
-    console.log("I love the Beatles!")
+    array.push("I love the Beatles!")
   }
 }
